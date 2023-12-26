@@ -1,0 +1,17 @@
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\ValidateEmail.exe.config
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\ValidateEmail.exe
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\ValidateEmail.pdb
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Twilio.dll
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\bin\Debug\Twilio.xml
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\obj\Debug\ValidateEmail.csproj.AssemblyReference.cache
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\obj\Debug\ValidateEmail.csproj.CoreCompileInputs.cache
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\obj\Debug\ValidateEmail.csproj.CopyComplete
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\obj\Debug\ValidateEmail.exe
+C:\Users\10795484674\Desktop\ValidarEmail\ValidateEmail\obj\Debug\ValidateEmail.pdb
